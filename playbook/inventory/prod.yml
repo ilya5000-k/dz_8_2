@@ -1,0 +1,11 @@
+---
+clickhouse:
+  hosts:
+    clickhouse-01:
+      ansible_host: 51.250.64.225
+      ansible_user: ilya
+vector:
+  hosts:
+    clickhouse-01:
+      ansible_host: 51.250.64.225
+      ansible_user: ilya

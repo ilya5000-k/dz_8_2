@@ -1,0 +1,12 @@
+key.json
+infrastructure/key.json
+infrastructure/*.tfstste
+infrastructure/*.backup
+infrastructure/terraform.tfstate
+vscode/
+infrastructure/terraform/
+infrastructure/key.sh
+infrastructure/variables.tf
+infrastructure/meta.txt
+playbook/ansible.cfg
+**/.terraform
